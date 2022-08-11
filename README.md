@@ -1,0 +1,2 @@
+# The-windows-pickle-login-tkinter-python-project
+The interface Tkinter module ("TK interface") of Python's standard TK GUI toolkit is the interface of Python's standard TK GUI toolkit. TK and Tkinter can be used in most UNIX platforms, and can also be applied in windows and Macintosh systems. Subsequent versions of tk8.0 can realize local window style through TTK, and run well in most platforms. In addition, Tkinter Tix provides richer window components. My project will use Tkinter library to achieve user registration and login.
